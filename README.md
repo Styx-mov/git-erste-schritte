@@ -7,3 +7,4 @@ Noch bin ich ziemlich verloren, aber ich verstehe zumindest schon mal den Sinn v
 - **Repository:** Ein Projektordner, der alle Dateien und den Änderungsverlauf enthält.
 - **Commit:** Ein Schritt im Projekt der mit einer Nachricht versehen ist, was geändert wurde.
 - **Branch:** Ein ENtwicklungszweig der unabhängig vom Hauptstand läuft. Dient dazu um z.B was auszuprobieren ohne den Hauptstand zu ändern.
+- **Pull Request:** Anfrage auf GitHub, die Änderungen aus einem Branch in einen anderen zu übernehmen.
